@@ -21,7 +21,9 @@ Community Interaction: The website will provide features to foster community eng
 - Azure Health Services
 - Static Web Apps
 ## Home
-
+![home 1](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/c76624f4-dd64-475f-9e32-47beee44fe9e)
+![home2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/758329d2-bc07-4ad4-ba09-dde8e47b5e8b)
+![home3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/63394846-241d-4387-9ed0-f7e071286abd)
 ## About
 
 ## Reservation

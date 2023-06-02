@@ -1,7 +1,7 @@
 ## naruto-merchendise
 Azure Microsoft Internship Project
 - Project Link: https://gentle-desert-0d25bee00.3.azurestaticapps.net
-- Demo Video Link: 
+- Demo Video Link: https://youtu.be/66H3ITA3EYM
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.

@@ -9,7 +9,7 @@ Azure Microsoft Internship Project
 - User can know about health information through this website.
 - Has many graphical and visual innovative effects.
 - Included the feedback Survey form to increase the scope of improvement.
-- Has collection of many web pages including Home, About, Reservation, Gallary,Contact and Reviews related information etc.
+- Has collection of many web pages including Home,Products,Review,About,Azure related etc.
 ## Problem Statement
 . Limited Availability: Naruto fans often struggle to find a reliable and dedicated platform to purchase authentic Naruto merchandise. There may be a lack of local stores     or online platforms that offer a wide range of Naruto-themed products.
 

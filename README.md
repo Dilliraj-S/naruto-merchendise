@@ -25,19 +25,31 @@ Community Interaction: The website will provide features to foster community eng
 ![home2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/758329d2-bc07-4ad4-ba09-dde8e47b5e8b)
 ![home3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/63394846-241d-4387-9ed0-f7e071286abd)
 ## Product
+![product1](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/56d0dabf-1b12-40c8-b2e9-fb6fffe5a572)
+![product2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/8bf84cf7-61c0-4506-bc1d-c68f4485c23b)
+![product3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/373ccc8c-ca1d-478e-a800-c457ececec19)
 
 ## Review
+![review 1](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/cbd43908-b96e-4577-a5e7-7eafc90327c7)
+![review2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/cfb0211d-beb0-4148-bf57-96c61f3e6983)
+![review3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/1443f39d-5e5b-4452-8422-9bbfff968553)
 
 ## About
+![contact1](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/3daf21a7-cc62-463e-bdbd-1216b2f7a361)
 
 ## Contact
+![contact2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/0f706459-7e6f-4e14-b2a3-e1936f48c134)
+![contact3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/6bae1077-1a01-4804-880a-351fcefbb274)
 
 ## Azure Bot Services
+![azure1](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/4494e3d0-6e12-45ad-aed9-64c14a4561bd)
+![azure2](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/523db272-5833-4e42-a338-67051fa6d9de)
+![azure3](https://github.com/Dilliraj-S/naruto-merchendise/assets/132550822/6d2704fd-5ae3-4fbc-97b4-9666bb31259c)
 
 ## Tech Stack 
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
